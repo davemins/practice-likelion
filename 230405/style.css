@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+/* ---------nav--------- */
+
+nav {
+    height: 80px;
+    background-color: #ff9999;
+    line-height: 77px;
+}
+
+.img::before {
+    background-image: url('./img.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+}
+
+
+
+
+/* ---------header--------- */
